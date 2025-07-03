@@ -1,4 +1,4 @@
-## 🔍 Trendlyzer
+### 🔍 TRENDLYZER
 
 Trendlyzer is a sleek Streamlit web app that allows you to explore Google Trends data effortlessly. It lets you visualize how interest in specific keywords changes over time, discover related and trending searches, and download trend insights – all in one beautiful interface.
 ![Trendlyzer Logo](logo.png)
